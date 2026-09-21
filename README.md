@@ -34,7 +34,7 @@ Atualmente estou focado principalmente em:
 📱 Expo
 ```
 
-Meu objetivo?
+Meu objetivo é simples:
 
 > **Aprender → construir → quebrar → consertar → entender → repetir.**
 
@@ -60,28 +60,36 @@ Meu objetivo?
 
 # 📚 Atualmente aprendendo
 
-<div align="center">
-
-### TypeScript
-
-`████████████░░░░░░░░` **Explorando**
-
-### Java
-
-`██████████████░░░░░░` **Praticando**
-
-### SQL
-
-`██████████░░░░░░░░░░` **Aprendendo**
-
-### Expo
-
-`████████░░░░░░░░░░░░` **Experimentando**
-
-</div>
+```text
+TypeScript       ███████████░░░░░░░░░   explorando
+Java             █████████████░░░░░░░   praticando
+SQL              █████████░░░░░░░░░░░   aprendendo
+Expo             ███████░░░░░░░░░░░░░   experimentando
+HTML / CSS       █████████████░░░░░░░   construindo
+```
 
 > Essas barras não são uma nota de habilidade.
-> São só uma forma divertida de mostrar onde estou colocando meu foco atualmente. 😄
+> É só uma forma divertida de mostrar onde estou colocando meu foco atualmente. 😄
+
+---
+
+# 🗿 Farmando aura enquanto o código compila
+
+<div align="center">
+
+<img src="GIF_AURA_DO_USUARIO" width="450">
+
+### 🗿 +1000 AURA
+
+**Enquanto o código está compilando:**
+
+`😎`
+
+**Enquanto eu finjo que sei exatamente o que estou fazendo:**
+
+`🗿`
+
+</div>
 
 ---
 
@@ -93,17 +101,36 @@ Meu objetivo?
 
 ### 😎
 
+**"Eu sabia que ia funcionar."**
+
 </div>
 
-# 💀 Quando não funciona
+---
+
+# 💀 Quando o código NÃO funciona de primeira
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400">
+<img src="GIF_CODIGO_NAO_VAI_DE_PRIMEIRA_DO_USUARIO" width="400">
 
-### "É só um pequeno bug."
+### 🤨
+
+**"Talvez eu não devesse ter mexido nisso..."**
 
 </div>
+
+```text
+Código antes de mexer:
+████████████████████████████████ 100%
+
+"Vou só mudar uma coisinha."
+
+Código depois:
+████████░░░░░░░░░░░░░░░░░░░░░░  27%
+
+Eu:
+💀
+```
 
 ---
 
@@ -206,22 +233,21 @@ Prefiro entender uma coisa de verdade, construir alguma coisa com ela e depois p
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/9KxPbpaazZ0ZO/giphy.gif" width="350">
+```text
+Bug encontrado.
+        ↓
+"Isso é fácil."
+        ↓
+2 horas depois...
+        ↓
+"Quem escreveu isso?"
+        ↓
+Eu fui eu.
+        ↓
+💀
+```
 
 </div>
-
-```text
-Código:      100 linhas
-Bug:         1
-
-Tempo para resolver:
-5 minutos? ❌
-
-5 horas? ❌
-
-Descobrir que era um ";"?
-                    ✅
-```
 
 ---
 
@@ -248,7 +274,9 @@ Descobrir que era um ";"?
 [![GitHub](https://img.shields.io/badge/GitHub-GhosCop-181717?style=for-the-badge\&logo=github)](https://github.com/GhosCop)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-em_breve-0A66C2?style=for-the-badge\&logo=linkedin)](#)
+
 [![Instagram](https://img.shields.io/badge/Instagram-em_breve-E4405F?style=for-the-badge\&logo=instagram)](#)
+
 [![Email](https://img.shields.io/badge/Email-em_breve-EA4335?style=for-the-badge\&logo=gmail)](#)
 
 </div>
