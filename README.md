@@ -77,7 +77,7 @@ HTML / CSS       █████████████░░░░░░░   
 
 <div align="center">
 
-<img src="GIF_AURA_DO_USUARIO" width="450">
+<img src="https://giffiles.alphacoders.com/224/224624.gif" width="450">
 
 ### 🗿 +1000 AURA
 
@@ -111,7 +111,7 @@ HTML / CSS       █████████████░░░░░░░   
 
 <div align="center">
 
-<img src="GIF_CODIGO_NAO_VAI_DE_PRIMEIRA_DO_USUARIO" width="400">
+<img src="https://media.tenor.com/teHODrCGjRQAAAAM/regretting-thinking.gif" width="400">
 
 ### 🤨
 
@@ -149,8 +149,6 @@ Em breve vou colocar meus principais projetos aqui.
 Quero que cada projeto tenha:
 
 ```text
-📸 Screenshots
-🎥 GIF mostrando o projeto funcionando
 📝 README próprio
 🛠️ Tecnologias utilizadas
 ✨ Funcionalidades
