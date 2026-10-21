@@ -243,11 +243,11 @@ A ideia é que meu GitHub seja também um registro da minha evolução.
 
 [![GitHub](https://img.shields.io/badge/GitHub-GhosCop-181717?style=for-the-badge\&logo=github)](https://github.com/GhosCop)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-em_breve-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/heitor-modanes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HeitorModanês-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/heitor-modanes/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-em_breve-E4405F?style=for-the-badge\&logo=instagram)](https://www.instagram.com/ferreiraaheitorr/)
+[![Instagram](https://img.shields.io/badge/Instagram-heitorrferreiraa-E4405F?style=for-the-badge\&logo=instagram)](https://www.instagram.com/ferreiraaheitorr/)
 
-[![Email](https://img.shields.io/badge/Email-em_breve-EA4335?style=for-the-badge\&logo=gmail)](heitormodanes@gmail.com)
+[![Email](https://img.shields.io/badge/Email-heitormodanes@gmail.com-EA4335?style=for-the-badge\&logo=gmail)](heitormodanes@gmail.com)
 
 </div>
 
