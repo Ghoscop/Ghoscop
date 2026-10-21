@@ -245,7 +245,7 @@ A ideia é que meu GitHub seja também um registro da minha evolução.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HeitorModanês-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/heitor-modanes/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-heitorrferreiraa-E4405F?style=for-the-badge\&logo=instagram)](https://www.instagram.com/ferreiraaheitorr/)
+[![Instagram](https://img.shields.io/badge/Instagram-ferreiraaheitorr-E4405F?style=for-the-badge\&logo=instagram)](https://www.instagram.com/ferreiraaheitorr/)
 
 [![Email](https://img.shields.io/badge/Email-heitormodanes@gmail.com-EA4335?style=for-the-badge\&logo=gmail)](heitormodanes@gmail.com)
 
