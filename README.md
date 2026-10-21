@@ -221,34 +221,6 @@ A ideia é que meu GitHub seja também um registro da minha evolução.
 └────────────────────────────────────────────┘
 ```
 
-Não tenho pressa para aprender tudo.
-
-Prefiro entender uma coisa de verdade, construir alguma coisa com ela e depois partir para a próxima.
-
----
-
-# 🐛 Bugs que fazem parte da jornada
-
-<div align="center">
-
-```text
-Bug encontrado.
-        ↓
-"Isso é fácil."
-        ↓
-2 horas depois...
-        ↓
-"Quem escreveu isso?"
-        ↓
-Eu fui eu.
-        ↓
-💀
-```
-
-</div>
-
----
-
 # 🎯 O que você vai encontrar por aqui
 
 <div align="center">
@@ -271,11 +243,11 @@ Eu fui eu.
 
 [![GitHub](https://img.shields.io/badge/GitHub-GhosCop-181717?style=for-the-badge\&logo=github)](https://github.com/GhosCop)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-em_breve-0A66C2?style=for-the-badge\&logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-em_breve-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/heitor-modanes/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-em_breve-E4405F?style=for-the-badge\&logo=instagram)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-em_breve-E4405F?style=for-the-badge\&logo=instagram)](https://www.instagram.com/ferreiraaheitorr/)
 
-[![Email](https://img.shields.io/badge/Email-em_breve-EA4335?style=for-the-badge\&logo=gmail)](#)
+[![Email](https://img.shields.io/badge/Email-em_breve-EA4335?style=for-the-badge\&logo=gmail)](heitormodanes@gmail.com)
 
 </div>
 
